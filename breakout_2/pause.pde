@@ -1,0 +1,3 @@
+void pause() {
+  theme.pause();
+}
