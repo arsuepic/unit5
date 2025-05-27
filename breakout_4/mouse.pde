@@ -1,5 +1,4 @@
 void mouseReleased() {
-
   if (mode == INTRO) {
     introClick();
   } else if (mode == GAME) {

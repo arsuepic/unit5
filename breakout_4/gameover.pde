@@ -16,13 +16,13 @@ void gameoverClick() {
 
   HP = 3;
   score = 0;
+  
   ballX = width/2;
   ballY = height/2;
   ballR = 10;
   vX = 0;
   vY = -10;
-
-  x = width/2;
-  y = height;
+  paddleX = width/2;
+  paddleY = height;
   r = 60;
 }
